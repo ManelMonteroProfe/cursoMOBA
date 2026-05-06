@@ -1,0 +1,11 @@
+MATERIALES CURSO IA MOBA
+"IA APLICADO A PYMES- NIVEL INTERMEDIO"
+
+
+
+Esta carpeta almacenará los materiales del curso Intermedio de PYMES de MOBA
+Mayo - Junio 2026
+
+
+Manel Montero
+Profesor
