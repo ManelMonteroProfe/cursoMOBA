@@ -1,0 +1,45 @@
+Nadie está hablando de esta combinación.
+Claude Code + NotebookLM = memoria infinita para tu agente de IA.
+Y configurarlo tarda literalmente dos minutos.
+
+Aquí te cuento cómo funciona:
+
+NotebookLM es la herramienta de Google para organizar documentos.
+
+Funciona como un sistema RAG en una caja: subes PDFs, audios, vídeos, notas...
+y la herramienta te permite crear presentaciones, podcasts y resúmenes automáticamente.
+
+El problema es que no tiene API pública.
+
+Así que no podías conectarlo a ningún agente externo.
+
+Hasta ahora.
+
+Existe un repositorio en GitHub llamado que ejecuta un script con Playwright para controlar NotebookLM desde la terminal.
+
+Con él puedes hacer cosas como:
+
+- Login automático
+- Crear notebooks nuevos
+- Hacer preguntas y recibir respuestas
+- Generar contenido desde los documentos
+
+Y tiene un skill que le enseña a Claude Code cómo usar ese script.
+
+Resultado: Claude Code puede ejecutar tareas en NotebookLM directamente desde el terminal.
+
+Lo que consigues con esto:
+
+- Un agente de investigación que recuerda todo lo que le has subido
+- Todos tus documentos organizados y accesibles sin gastar espacio local
+- Claude como cerebro que cruza información entre todos tus notebooks
+
+La memoria que Claude no tiene de forma nativa, se la das tú con NotebookLM.
+
+Te dejo el repositorio AQUI
+
+https://github.com/claude-world/notebooklm-skill
+---
+
+
+
